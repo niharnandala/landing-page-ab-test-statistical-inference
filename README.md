@@ -6,7 +6,7 @@
 
 ## 🌐 Live Application
 
-👉 https://ab-testing-decision-system.streamlit.app/
+👉 https://landing-page-ab-test-statistical-inference.streamlit.app/
 
 ---
 
@@ -178,6 +178,9 @@ This is a decision interface built on:
 - business logic  
 
 ---
+## 📸 Demo
+
+![App Screenshot](assets/Screenshot (118).png)
 
 ## 📁 Project Structure
 
