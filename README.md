@@ -182,6 +182,7 @@ This is a decision interface built on:
 
 ![App Screenshot](assets/Screenshot(118).png)
 
+---
 ## 📁 Project Structure
 
 ```
