@@ -191,6 +191,12 @@ ab_testing_project/
 ├── outputs/            # results
 ```
 ---
+## 📚 Additional Documentation
+
+- [Project Structure](PROJECT_STRUCTURE.md)
+- [Deployment Guide](deployment.md)
+
+---
 
 ## ▶️ Running the Project
 
