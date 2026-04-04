@@ -181,6 +181,7 @@ This is a decision interface built on:
 
 ## 📁 Project Structure
 
+```
 ab_testing_project/
 ├── app/                # Streamlit app
 ├── data/               # raw + processed data
@@ -188,7 +189,7 @@ ab_testing_project/
 ├── src/                # cleaning + inference + logic
 ├── tests/              # unit tests
 ├── outputs/            # results
-
+```
 ---
 
 ## ▶️ Running the Project
