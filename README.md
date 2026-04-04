@@ -180,7 +180,7 @@ This is a decision interface built on:
 ---
 ## 📸 Demo
 
-![App Screenshot](assets/Screenshot (118).png)
+![App Screenshot](assets/Screenshot(118).png)
 
 ## 📁 Project Structure
 
