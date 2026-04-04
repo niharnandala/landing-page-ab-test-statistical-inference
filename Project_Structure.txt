@@ -1,0 +1,29 @@
+smartad-project/
+│
+├── data/
+│   ├── raw/
+│   │   └── AdSmartABdata.csv
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_ab_testing.ipynb
+│   ├── 04_segmentation_analysis.ipynb
+│   └── 05_modeling_optional.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── utils.py
+│   └── analysis.py
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── outputs/
+│   ├── plots/
+│   └── reports/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
